@@ -1,6 +1,6 @@
 {
-"products" : 
-[{"id":1,"name":"Australian brush turkey","category":"Fuscia"},
+"products" : [
+{"id":1,"name":"Australian brush turkey","category":"Fuscia"},
 {"id":2,"name":"Blue-breasted cordon bleu","category":"Fuscia"},
 {"id":3,"name":"Green heron","category":"Purple"},
 {"id":4,"name":"Tarantula","category":"Puce"},
@@ -19,5 +19,6 @@
 {"id":17,"name":"Tortoise, indian star","category":"Green"},
 {"id":18,"name":"Pigeon, wood","category":"Goldenrod"},
 {"id":19,"name":"Cardinal, black-throated","category":"Goldenrod"},
-{"id":20,"name":"Giant otter","category":"Purple"}]
+{"id":20,"name":"Giant otter","category":"Purple"}
+]
 }
